@@ -1,0 +1,17 @@
+{
+    // "php.validate.executablePath": "C:/php/php-8.5.1-src/php.exe",
+    "php.validate.executablePath": "C:/php/php-8.4.17-Win32-vs17-x64/php.exe",
+    // "php.validate.executablePahtC:/php/php-8.3.29-src/php.exe",
+    // "php.validate.executablePath": "C:/php/php-8.2.12/php.exe",
+    // "php.validate.executablePath": "C:/php/php-7.3.9-Win32-VC15-x64/php.exe",
+    // "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "terminal.integrated.env.windows": {
+        // "PATH": "C:\\php\\php-8.5.1-src;${env:PATH}",
+        "PATH": "C:\\php\\php-8.4.17-Win32-vs17-x64;${env:PATH}",
+        // "PATH": "C:\\php\\php-8.3.29-src;${env:PATH}",
+        // "PATH": "C:\\php\\php-8.2.12;${env:PATH}"
+        // "PATH": "C:\\php\\php-7.3.9-Win32-VC15-x64;${env:PATH}"
+        // "PATH": "C:\\xampp\\php;${env:PATH}"
+    },
+    "json.schemas": []
+}
