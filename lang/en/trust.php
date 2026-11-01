@@ -3,7 +3,7 @@
 return [
     'title' => 'Trusted by Entrepreneurs',
     'subtitle' => 'We help SME businesses across the Netherlands with their digital transformation.',
-    
+
     'testimonials' => [
         [
             'name' => 'Jan de Vries',
@@ -21,6 +21,6 @@ return [
             'quote' => 'Thanks to Pouya IT\'s API integrations, all our systems now talk to each other. This saves us hours of manual work daily.',
         ],
     ],
-    
+
     'partners_title' => 'Technology Partners',
 ];

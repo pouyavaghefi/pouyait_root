@@ -24,5 +24,5 @@ return [
             'title' => 'Lancering & Groei',
             'desc' => 'Na de livegang blijven we monitoren en optimaliseren om continue groei te garanderen.',
         ],
-    ]
+    ],
 ];

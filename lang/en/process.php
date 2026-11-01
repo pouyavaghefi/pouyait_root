@@ -24,5 +24,5 @@ return [
             'title' => 'Launch & Growth',
             'desc' => 'After going live, we continue to monitor and optimize to ensure continuous growth.',
         ],
-    ]
+    ],
 ];

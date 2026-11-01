@@ -3,7 +3,7 @@
 return [
     'title' => 'Transparent Investment',
     'subtitle' => 'No hidden fees, just measurable results for your business.',
-    
+
     'tier1_name' => 'SME Starter',
     'tier1_price' => '999',
     'tier1_period' => 'per project',
@@ -14,7 +14,7 @@ return [
         'Contact Form Integration',
         '1 Month Free Support',
     ],
-    
+
     'tier2_name' => 'Professional Growth',
     'tier2_price' => '2499',
     'tier2_period' => 'per project',
@@ -26,7 +26,7 @@ return [
         'Performance Dashboard',
         'Priority Support',
     ],
-    
+
     'tier3_name' => 'Enterprise Partner',
     'tier3_price' => 'Custom',
     'tier3_period' => 'on request',
@@ -38,7 +38,7 @@ return [
         '24/7 Monitoring & Support',
         'Strategic Consultancy',
     ],
-    
+
     'cta_button' => 'Request a Quote',
     'cta_secondary' => 'Schedule a Free Call',
 ];

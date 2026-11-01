@@ -9,19 +9,19 @@ return [
             'tag' => 'E-commerce',
             'title' => 'Automation for a National Retail Chain',
             'desc' => 'We fully automated inventory management and ordering, leading to 40% less manual work.',
-            'result' => '40% More Efficient'
+            'result' => '40% More Efficient',
         ],
         'logistics' => [
             'tag' => 'Custom ERP',
             'title' => 'Real-time Dashboards for Transport & Logistics',
             'desc' => 'A central platform for tracking shipments and optimizing routes.',
-            'result' => '20% Fuel Savings'
+            'result' => '20% Fuel Savings',
         ],
         'healthcare' => [
             'tag' => 'SaaS Project',
             'title' => 'Patient Management System for Healthcare',
             'desc' => 'A secure and user-friendly portal for healthcare providers to manage records efficiently.',
-            'result' => '99.9% Data Security'
+            'result' => '99.9% Data Security',
         ],
-    ]
+    ],
 ];

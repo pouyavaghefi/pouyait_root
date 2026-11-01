@@ -3,7 +3,7 @@
 return [
     'title' => 'Transparante Investering',
     'subtitle' => 'Geen verborgen kosten, alleen meetbare resultaten voor jouw onderneming.',
-    
+
     'tier1_name' => 'MKB Basis',
     'tier1_price' => '999',
     'tier1_period' => 'per project',
@@ -14,7 +14,7 @@ return [
         'Contact Formulier Integratie',
         '1 Maand Gratis Support',
     ],
-    
+
     'tier2_name' => 'Professional Groei',
     'tier2_price' => '2499',
     'tier2_period' => 'per project',
@@ -26,7 +26,7 @@ return [
         'Performance Dashboard',
         'Prioriteit Support',
     ],
-    
+
     'tier3_name' => 'Enterprise Partner',
     'tier3_price' => 'Custom',
     'tier3_period' => 'op aanvraag',
@@ -38,7 +38,7 @@ return [
         '24/7 Monitoring & Support',
         'Strategisch Advies',
     ],
-    
+
     'cta_button' => 'Vraag een offerte aan',
     'cta_secondary' => 'Plan een gratis adviesgesprek',
 ];
